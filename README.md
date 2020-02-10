@@ -29,21 +29,21 @@ Let's say "1234.HK" is in this list of stocks. "1234.HK" would be classified as 
 Why this may be useful?
 breaking down the positive growth to negative growth over several calendar days helps us understand market sentiment and to see consistency. If average growth increases, it is a good indication that the stock is gaining momentum. we filter by price because we may not want to play with penny stocks. The past actual returns tells us about the stock's activity and serves as a check for the momentum. Volume in the last 7 calendar days will help us gauge if there is enough liquidity.
 
-1234.HK
-number of positves 1m:  0.7368421052631579 14/19
-number of negatives 1m:  0.2631578947368421 5/19
-Average Growth per day 1m:  1.482
-number of positves 14d:  0.8571428571428571 6/7
-number of negatives 14d:  0.14285714285714285 1/7
-Average Growth per day 14d:  2.046
-number of positves 7d:  1.0 4/4
-number of negatives 7d:  0.0 0/4
-Average Growth per day 7d:  2.302
-Latest Close Price:  75.5
-Past 1m Returns:  [0.52, 3.79, -2.91, -1.71, 5.4, 0.91, 4.01, -1.65, 4.0] [0.31, 3.53, -2.37, -4.93, 0.96, 9.09, 6.23, 0.41, 1.49, 1.07]
-Volume: 
-0   834584
-1   871222
-2   932400
-3   524800
-4   756400
+1234.HK<br />
+number of positves 1m:  0.7368421052631579 14/19<br />
+number of negatives 1m:  0.2631578947368421 5/19<br />
+Average Growth per day 1m:  1.482<br />
+number of positves 14d:  0.8571428571428571 6/7<br />
+number of negatives 14d:  0.14285714285714285 1/7<br />
+Average Growth per day 14d:  2.046<br />
+number of positves 7d:  1.0 4/4<br />
+number of negatives 7d:  0.0 0/4<br />
+Average Growth per day 7d:  2.302<br />
+Latest Close Price:  75.5<br />
+Past 1m Returns:  [0.52, 3.79, -2.91, -1.71, 5.4, 0.91, 4.01, -1.65, 4.0] [0.31, 3.53, -2.37, -4.93, 0.96, 9.09, 6.23, 0.41, 1.49, 1.07]<br />
+Volume: <br />
+0   834584<br />
+1   871222<br />
+2   932400<br />
+3   524800<br />
+4   756400<br />
